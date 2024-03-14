@@ -1,0 +1,132 @@
+﻿@model WebApp.Models.MessageASP
+
+
+<div class="main-wrapper">
+	<div class="section-contact">
+		<div class="padding-global">
+			<div class="container-large">
+				<div class="padding-section-medium padding-top-large">
+					<div class="w-layout-grid conact-grid">
+						<div id="w-node-_408f6be3-e376-f98b-ab01-9406f31a8967-996bc45c" data-w-id="408f6be3-e376-f98b-ab01-9406f31a8967" style="opacity:10" class="contact-left-content">
+							<div id="w-node-_408f6be3-e376-f98b-ab01-9406f31a8968-996bc45c" class="heading-wrapper">
+								<h2 class="heading-style-h2">Let’s Talk!</h2>
+							</div>
+							<img src="~/images/objects.png" loading="lazy" alt="" class="contact-image" />
+						</div>
+						<div id="w-node-_408f6be3-e376-f98b-ab01-9406f31a896c-996bc45c" data-w-id="408f6be3-e376-f98b-ab01-9406f31a896c" style="opacity:10" class="contact-from-block w-form">
+							<form asp-controller="About" asp-action="CreateMessage" method="post" id="email-form" name="email-form" data-name="Email Form" class="contact-from" data-wf-page-id="65bf340577a6b18b996bc45c" data-wf-element-id="408f6be3-e376-f98b-ab01-9406f31a896d">
+								<div class="w-layout-grid contact-input-grid">
+									<div class="input-wrapper">
+										<label for="name-2" class="text-size-medium is-contact">Full Name</label>
+										<input asp-for="Fullname" class="input w-input" maxlength="256" name="Fullname" data-name="Name 2" placeholder="Ex. Jone Alex" type="text" id="name-2" required="" />
+									</div>
+									<div class="input-wrapper">
+										<label for="Email-3" class="text-size-medium is-contact">Email address</label>
+										<input asp-for="Email" class="input w-input" maxlength="256" name="Email" data-name="Email 3" placeholder="Ex. jone@example.com" type="email" id="Email-3" required="" />
+									</div>
+									<div class="input-wrapper">
+										<label for="Company-Name-3" class="text-size-medium is-contact">Company</label>
+										<input asp-for="Company" class="input w-input" maxlength="256" name="Company" data-name="Company Name" placeholder="Ex. webocean" type="text" id="Company-Name-3" required="" />
+									</div>
+									<div class="input-wrapper">
+										<label for="Budget-3" class="text-size-medium is-contact">Budget</label>
+										<input asp-for="Budget" class="input w-input" maxlength="256" name="Budget" data-name="Budget" placeholder="$45664-465850" type="text" id="Budget" required="" />
+									</div>
+									<div id="w-node-_408f6be3-e376-f98b-ab01-9406f31a897f-996bc45c" class="input-wrapper">
+										<label for="Message" class="text-size-medium is-contact">Message</label>
+										<textarea asp-for="MessageText" placeholder="What can we help you with?" maxlength="5000" id="MessageText" name="MessageText" data-name="Message" class="input is-massage w-input"></textarea>
+									</div>
+								</div>
+								<div class="contact-service-wrapper">
+									<div class="text-size-regular text-wight-bold">Services</div>
+									<div class="contact-service-list">
+										<div>
+											<label class="w-checkbox checkbox-field">
+												<div class="w-checkbox-input w-checkbox-input--inputType-custom checkbox"></div>
+												<input value="WebsiteDesign" type="checkbox" id="checkbox-4" name="Services" data-name="Checkbox 4" style="opacity:10;position:absolute;z-index:-1" />
+												<span class="text-size-regular w-form-label" for="checkbox-4">Website Design</span>
+											</label>
+											<div class="padding-bottom padding-xsmall"></div>
+											<label class="w-checkbox checkbox-field">
+												<div class="w-checkbox-input w-checkbox-input--inputType-custom checkbox"></div>
+												<input value="UserReserch" type="checkbox" id="checkbox-2" name="Services" data-name="Checkbox 2" style="opacity:10;position:absolute;z-index:-1" />
+												<span class="text-size-regular w-form-label" for="checkbox-2">User Reserch</span>
+											</label>
+										</div>
+										<div>
+											<label class="w-checkbox checkbox-field">
+												<div class="w-checkbox-input w-checkbox-input--inputType-custom checkbox"></div>
+												<input value="StrategyConsulting" type="checkbox" id="checkbox-3" name="Services" data-name="Checkbox 3" style="opacity:10;position:absolute;z-index:-1" />
+												<span class="text-size-regular w-form-label" for="checkbox-3">Strategy &amp; Consulting</span>
+											</label>
+											<div class="padding-bottom padding-xsmall"></div>
+											<label class="w-checkbox checkbox-field">
+												<div class="w-checkbox-input w-checkbox-input--inputType-custom checkbox"></div>
+												<input  value="ContactCreation" type="checkbox" id="checkbox-2" name="Services" data-name="Checkbox 2" style="opacity:10;position:absolute;z-index:-1" />
+												<span class="text-size-regular w-form-label" for="checkbox-2">Contact Creation</span>
+											</label>
+										</div>
+									</div>
+								</div>
+								<input type="submit" data-wait="Please wait..." class="button is-contact w-button" value="Send Message" />
+							</form>
+							<div class="w-form-done">
+								<div>Thank you! Your submission has been received!</div>
+							</div>
+							<div class="w-form-fail">
+								<div>Oops! Something went wrong while submitting the form.</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="section-brand">
+		<div class="padding-global">
+			<div class="container-large">
+				<div class="padding-section-medium padding-bottom-large">
+					<div class="brand-component">
+						<div data-w-id="a4d5e56e-0e6f-60aa-7739-ff2f94e22507" class="brand-content">
+							<h2 class="heading-style-h2">
+								We are helping to
+								<span class="text-background">grow</span> more revenue for all those partners.
+							</h2>
+							<p class="text-size-medium">Cultivating Prosperity: Fostering Revenue Growth for Our Valued Partners</p>
+						</div>
+						<div class="padding-bottom padding-medium"></div>
+						<div class="brand-logo-tracker-wrapper">
+							<div class="brand-logo-tracker">
+								<img src="~/images/brand-20logo-2001.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2002.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2003.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2004.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2005.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/berlin-black.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2007.svg" loading="lazy" alt="" class="brand-logo" />
+							</div>
+							<div class="brand-logo-tracker">
+								<img src="~/images/brand-20logo-2001.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2002.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2003.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2004.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2005.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/berlin-black.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2007.svg" loading="lazy" alt="" class="brand-logo" />
+							</div>
+							<div class="brand-logo-tracker">
+								<img src="~/images/brand-20logo-2001.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2002.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2003.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2004.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2005.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/berlin-black.svg" loading="lazy" alt="" class="brand-logo" />
+								<img src="~/images/brand-20logo-2007.svg" loading="lazy" alt="" class="brand-logo" />
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

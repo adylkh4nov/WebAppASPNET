@@ -1,0 +1,37 @@
+﻿
+<div class="navber-container">
+	<div class="navigation-left">
+		<a href="/" class="navber-logo-wrapper w-nav-brand">
+			<img src="~/images/blacklogo.svg" loading="lazy" alt="" class="navber-logo" />
+		</a>
+	</div>
+	<div class="navigation-right">
+		<nav role="navigation" class="nav-menu w-nav-menu">
+			<a href="/home" class="nav-link w-nav-link">Home</a>
+			<a href="/about" aria-current="page" class="nav-link w-nav-link w--current">About</a>
+			<a href="/service" class="nav-link w-nav-link">Service</a>
+			<a href="/caseStudy" class="nav-link w-nav-link">Case Study</a>
+			<div data-hover="true" data-delay="0" data-w-id="5f5d383f-7e23-de79-c974-ac6277a1185d" class="nav-dropdown w-dropdown">
+				<div class="nav-dropdown-toggle w-dropdown-toggle">
+					<div>Page</div>
+					<img src="~/images/dwon-20arrowvector.svg" loading="lazy" width="Auto" alt="" />
+				</div>
+				<nav class="nav-dropdown-list w-dropdown-list">
+					<div class="dropdown-inner-list">
+						<a asp-controller="/Page" asp-action="Blog" class="menu-drop-down-link">Blog (CMs)</a>
+						<a asp-controller="/Page" asp-action="Career" class="menu-drop-down-link">Career (CMS)</a>
+					</div>
+				</nav>
+			</div>
+			<a asp-controller="/About" asp-action="ContactUs" class="button show-tablet w-button">Contact US</a>
+		</nav>
+		<a asp-controller="/About" asp-action="ContactUs" class="button show-desktop w-button">Contact US</a>
+		<div data-w-id="5f5d383f-7e23-de79-c974-ac6277a11870" class="menu-button w-nav-button">
+			<div class="menu-line-wrapper">
+				<div class="menu-line top"></div>
+				<div class="menu-line middile"></div>
+				<div class="menu-line last"></div>
+			</div>
+		</div>
+	</div>
+</div>

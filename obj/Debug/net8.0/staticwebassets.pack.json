@@ -1,0 +1,2469 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\css\\flowxperience.7cb416e62.css",
+      "PackagePath": "staticwebassets\\css\\flowxperience.7cb416e62.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\css\\webflow-style.css",
+      "PackagePath": "staticwebassets\\css\\webflow-style.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\01-p-1080.jpeg",
+      "PackagePath": "staticwebassets\\images\\01-p-1080.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\01-p-500.jpeg",
+      "PackagePath": "staticwebassets\\images\\01-p-500.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\01-p-800.jpeg",
+      "PackagePath": "staticwebassets\\images\\01-p-800.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\01.jpeg",
+      "PackagePath": "staticwebassets\\images\\01.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\02-p-1080.jpeg",
+      "PackagePath": "staticwebassets\\images\\02-p-1080.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\02-p-500.jpeg",
+      "PackagePath": "staticwebassets\\images\\02-p-500.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\02-p-800.jpeg",
+      "PackagePath": "staticwebassets\\images\\02-p-800.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\02.jpeg",
+      "PackagePath": "staticwebassets\\images\\02.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\02svg.svg",
+      "PackagePath": "staticwebassets\\images\\02svg.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\03-p-1080.jpeg",
+      "PackagePath": "staticwebassets\\images\\03-p-1080.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\03-p-500.jpeg",
+      "PackagePath": "staticwebassets\\images\\03-p-500.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\03-p-800.jpeg",
+      "PackagePath": "staticwebassets\\images\\03-p-800.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\03.jpeg",
+      "PackagePath": "staticwebassets\\images\\03.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\03svg.svg",
+      "PackagePath": "staticwebassets\\images\\03svg.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\04-p-1080.jpeg",
+      "PackagePath": "staticwebassets\\images\\04-p-1080.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\04-p-1600.jpeg",
+      "PackagePath": "staticwebassets\\images\\04-p-1600.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\04-p-500.jpeg",
+      "PackagePath": "staticwebassets\\images\\04-p-500.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\04-p-800.jpeg",
+      "PackagePath": "staticwebassets\\images\\04-p-800.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\04.jpeg",
+      "PackagePath": "staticwebassets\\images\\04.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\05-p-1080.jpeg",
+      "PackagePath": "staticwebassets\\images\\05-p-1080.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\05-p-1600.jpeg",
+      "PackagePath": "staticwebassets\\images\\05-p-1600.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\05-p-500.jpeg",
+      "PackagePath": "staticwebassets\\images\\05-p-500.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\05-p-800.jpeg",
+      "PackagePath": "staticwebassets\\images\\05-p-800.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\05.jpeg",
+      "PackagePath": "staticwebassets\\images\\05.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\1649002570611-image17.jpg",
+      "PackagePath": "staticwebassets\\images\\1649002570611-image17.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\1649002570681-image10.jpg",
+      "PackagePath": "staticwebassets\\images\\1649002570681-image10.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\1649002570690-image9.jpg",
+      "PackagePath": "staticwebassets\\images\\1649002570690-image9.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\1649002570766-image3.jpg",
+      "PackagePath": "staticwebassets\\images\\1649002570766-image3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\1649008920780-image12.jpg",
+      "PackagePath": "staticwebassets\\images\\1649008920780-image12.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\1649008920782-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\1649008920782-image1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\1649008920841-image8.jpg",
+      "PackagePath": "staticwebassets\\images\\1649008920841-image8.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\1649008920846-image6.jpg",
+      "PackagePath": "staticwebassets\\images\\1649008920846-image6.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\1649008920972-image19.jpg",
+      "PackagePath": "staticwebassets\\images\\1649008920972-image19.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\1649008920982-image4.jpg",
+      "PackagePath": "staticwebassets\\images\\1649008920982-image4.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\5e4af19e326d740a790eb7e6_001-target.svg",
+      "PackagePath": "staticwebassets\\images\\5e4af19e326d740a790eb7e6_001-target.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\about-20hero-20images-p-500.png",
+      "PackagePath": "staticwebassets\\images\\about-20hero-20images-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\about-20hero-20images-p-800.png",
+      "PackagePath": "staticwebassets\\images\\about-20hero-20images-p-800.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\about-20hero-20images.png",
+      "PackagePath": "staticwebassets\\images\\about-20hero-20images.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\about-20image-2002.png",
+      "PackagePath": "staticwebassets\\images\\about-20image-2002.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\about-20image-2003.png",
+      "PackagePath": "staticwebassets\\images\\about-20image-2003.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\about-20image.png",
+      "PackagePath": "staticwebassets\\images\\about-20image.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\about01.png",
+      "PackagePath": "staticwebassets\\images\\about01.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\about02.png",
+      "PackagePath": "staticwebassets\\images\\about02.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\about03.png",
+      "PackagePath": "staticwebassets\\images\\about03.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\app-icon.png",
+      "PackagePath": "staticwebassets\\images\\app-icon.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\area.svg",
+      "PackagePath": "staticwebassets\\images\\area.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\images\\arrow-left.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\arrow-righ.svg",
+      "PackagePath": "staticwebassets\\images\\arrow-righ.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\arrow-up-right.svg",
+      "PackagePath": "staticwebassets\\images\\arrow-up-right.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\arrow1.png",
+      "PackagePath": "staticwebassets\\images\\arrow1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\arrow2.png",
+      "PackagePath": "staticwebassets\\images\\arrow2.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\arrow2.svg",
+      "PackagePath": "staticwebassets\\images\\arrow2.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\arrow3.png",
+      "PackagePath": "staticwebassets\\images\\arrow3.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\arrow4-award-.png",
+      "PackagePath": "staticwebassets\\images\\arrow4-award-.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\asset-202-404x-201.svg",
+      "PackagePath": "staticwebassets\\images\\asset-202-404x-201.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\asset-204-404x.svg",
+      "PackagePath": "staticwebassets\\images\\asset-204-404x.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\asset-205-404x.svg",
+      "PackagePath": "staticwebassets\\images\\asset-205-404x.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\asset-206-404x.svg",
+      "PackagePath": "staticwebassets\\images\\asset-206-404x.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\asset-207-404x.svg",
+      "PackagePath": "staticwebassets\\images\\asset-207-404x.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\asset-208-404x.svg",
+      "PackagePath": "staticwebassets\\images\\asset-208-404x.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\asset-209-404x.svg",
+      "PackagePath": "staticwebassets\\images\\asset-209-404x.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\award-title-icon.png",
+      "PackagePath": "staticwebassets\\images\\award-title-icon.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\award9.svg",
+      "PackagePath": "staticwebassets\\images\\award9.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\awards1.svg",
+      "PackagePath": "staticwebassets\\images\\awards1.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\awards2.svg",
+      "PackagePath": "staticwebassets\\images\\awards2.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\awards3.svg",
+      "PackagePath": "staticwebassets\\images\\awards3.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\awards4.svg",
+      "PackagePath": "staticwebassets\\images\\awards4.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\awards5.svg",
+      "PackagePath": "staticwebassets\\images\\awards5.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\awards7.svg",
+      "PackagePath": "staticwebassets\\images\\awards7.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\awards8.svg",
+      "PackagePath": "staticwebassets\\images\\awards8.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\background-image.svg",
+      "PackagePath": "staticwebassets\\images\\background-image.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\backtotop_03.png",
+      "PackagePath": "staticwebassets\\images\\backtotop_03.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\berlin-black.svg",
+      "PackagePath": "staticwebassets\\images\\berlin-black.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blacklogo.svg",
+      "PackagePath": "staticwebassets\\images\\blacklogo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20details-20image-200-1.png",
+      "PackagePath": "staticwebassets\\images\\blog-20details-20image-200-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20details-20image-200.png",
+      "PackagePath": "staticwebassets\\images\\blog-20details-20image-200.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20details-20image-2001.png",
+      "PackagePath": "staticwebassets\\images\\blog-20details-20image-2001.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20details-20image-2003.png",
+      "PackagePath": "staticwebassets\\images\\blog-20details-20image-2003.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20details-20image-2005-1.png",
+      "PackagePath": "staticwebassets\\images\\blog-20details-20image-2005-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20details-20image-2005.png",
+      "PackagePath": "staticwebassets\\images\\blog-20details-20image-2005.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20details-20image-2006.png",
+      "PackagePath": "staticwebassets\\images\\blog-20details-20image-2006.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20image-2001-1.png",
+      "PackagePath": "staticwebassets\\images\\blog-20image-2001-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20image-2001.png",
+      "PackagePath": "staticwebassets\\images\\blog-20image-2001.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20image-2002.png",
+      "PackagePath": "staticwebassets\\images\\blog-20image-2002.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20image-2003.png",
+      "PackagePath": "staticwebassets\\images\\blog-20image-2003.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20image-201.png",
+      "PackagePath": "staticwebassets\\images\\blog-20image-201.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blog-20image-203.png",
+      "PackagePath": "staticwebassets\\images\\blog-20image-203.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blogging-p-500.png",
+      "PackagePath": "staticwebassets\\images\\blogging-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\blogging.png",
+      "PackagePath": "staticwebassets\\images\\blogging.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\bog-20image-2001.png",
+      "PackagePath": "staticwebassets\\images\\bog-20image-2001.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\bog-20image-2003.png",
+      "PackagePath": "staticwebassets\\images\\bog-20image-2003.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\brand-20log4.svg",
+      "PackagePath": "staticwebassets\\images\\brand-20log4.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\brand-20logo-2001.svg",
+      "PackagePath": "staticwebassets\\images\\brand-20logo-2001.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\brand-20logo-2002.svg",
+      "PackagePath": "staticwebassets\\images\\brand-20logo-2002.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\brand-20logo-2003.svg",
+      "PackagePath": "staticwebassets\\images\\brand-20logo-2003.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\brand-20logo-2004.svg",
+      "PackagePath": "staticwebassets\\images\\brand-20logo-2004.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\brand-20logo-2005.svg",
+      "PackagePath": "staticwebassets\\images\\brand-20logo-2005.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\brand-20logo-2007.svg",
+      "PackagePath": "staticwebassets\\images\\brand-20logo-2007.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\brand-20logo1.svg",
+      "PackagePath": "staticwebassets\\images\\brand-20logo1.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\brand-20logo2.svg",
+      "PackagePath": "staticwebassets\\images\\brand-20logo2.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\brand-20logo3.svg",
+      "PackagePath": "staticwebassets\\images\\brand-20logo3.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\brand-20logo4.svg",
+      "PackagePath": "staticwebassets\\images\\brand-20logo4.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\brand-20logo5.svg",
+      "PackagePath": "staticwebassets\\images\\brand-20logo5.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\calendar.png",
+      "PackagePath": "staticwebassets\\images\\calendar.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\calendar.svg",
+      "PackagePath": "staticwebassets\\images\\calendar.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\call.svg",
+      "PackagePath": "staticwebassets\\images\\call.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\category.png",
+      "PackagePath": "staticwebassets\\images\\category.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\chainsaw.png",
+      "PackagePath": "staticwebassets\\images\\chainsaw.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\check-1.svg",
+      "PackagePath": "staticwebassets\\images\\check-1.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\check.svg",
+      "PackagePath": "staticwebassets\\images\\check.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\check_icon.svg",
+      "PackagePath": "staticwebassets\\images\\check_icon.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\clashdisplay-bold.otf",
+      "PackagePath": "staticwebassets\\images\\clashdisplay-bold.otf"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\clashdisplay-light.otf",
+      "PackagePath": "staticwebassets\\images\\clashdisplay-light.otf"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\clashdisplay-medium.otf",
+      "PackagePath": "staticwebassets\\images\\clashdisplay-medium.otf"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\clashdisplay-regular.otf",
+      "PackagePath": "staticwebassets\\images\\clashdisplay-regular.otf"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\clashdisplay-semibold.otf",
+      "PackagePath": "staticwebassets\\images\\clashdisplay-semibold.otf"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\clock-201.svg",
+      "PackagePath": "staticwebassets\\images\\clock-201.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\clock.svg",
+      "PackagePath": "staticwebassets\\images\\clock.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\contact-icon.png",
+      "PackagePath": "staticwebassets\\images\\contact-icon.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\custom-checkbox-checkmark.589d534424.svg",
+      "PackagePath": "staticwebassets\\images\\custom-checkbox-checkmark.589d534424.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\customer-20image-2001.png",
+      "PackagePath": "staticwebassets\\images\\customer-20image-2001.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\customer-20image-2002.png",
+      "PackagePath": "staticwebassets\\images\\customer-20image-2002.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\customer-20image-2003.png",
+      "PackagePath": "staticwebassets\\images\\customer-20image-2003.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\customer-20image-2004.png",
+      "PackagePath": "staticwebassets\\images\\customer-20image-2004.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\customer-satisfaction.png",
+      "PackagePath": "staticwebassets\\images\\customer-satisfaction.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\data-20driven-20action.svg",
+      "PackagePath": "staticwebassets\\images\\data-20driven-20action.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\design-p-1080.jpeg",
+      "PackagePath": "staticwebassets\\images\\design-p-1080.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\design-p-500.jpeg",
+      "PackagePath": "staticwebassets\\images\\design-p-500.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\design-p-800.jpeg",
+      "PackagePath": "staticwebassets\\images\\design-p-800.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\design.jpeg",
+      "PackagePath": "staticwebassets\\images\\design.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\dribbble.png",
+      "PackagePath": "staticwebassets\\images\\dribbble.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\dwon-20arrowvector.svg",
+      "PackagePath": "staticwebassets\\images\\dwon-20arrowvector.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\dying-tree.jpg",
+      "PackagePath": "staticwebassets\\images\\dying-tree.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\emoji.svg",
+      "PackagePath": "staticwebassets\\images\\emoji.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\employee-20images.svg",
+      "PackagePath": "staticwebassets\\images\\employee-20images.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\face-meh.svg",
+      "PackagePath": "staticwebassets\\images\\face-meh.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\facebook.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\facebook.svg",
+      "PackagePath": "staticwebassets\\images\\facebook.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\facebook2.svg",
+      "PackagePath": "staticwebassets\\images\\facebook2.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\fathersday.jpg",
+      "PackagePath": "staticwebassets\\images\\fathersday.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\feature-20image-2001-p-500.png",
+      "PackagePath": "staticwebassets\\images\\feature-20image-2001-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\feature-20image-2001.png",
+      "PackagePath": "staticwebassets\\images\\feature-20image-2001.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\feature-20image-2002-p-500.png",
+      "PackagePath": "staticwebassets\\images\\feature-20image-2002-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\feature-20image-2002.png",
+      "PackagePath": "staticwebassets\\images\\feature-20image-2002.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\feature-20image-2003-p-500.png",
+      "PackagePath": "staticwebassets\\images\\feature-20image-2003-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\feature-20image-2003.png",
+      "PackagePath": "staticwebassets\\images\\feature-20image-2003.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\feature-20image-2004-p-500.png",
+      "PackagePath": "staticwebassets\\images\\feature-20image-2004-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\feature-20image-2004.png",
+      "PackagePath": "staticwebassets\\images\\feature-20image-2004.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\fertilizer.jpg",
+      "PackagePath": "staticwebassets\\images\\fertilizer.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\fertilizer.png",
+      "PackagePath": "staticwebassets\\images\\fertilizer.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\figma-1.svg",
+      "PackagePath": "staticwebassets\\images\\figma-1.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\flowers.jpg",
+      "PackagePath": "staticwebassets\\images\\flowers.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\flowxperience.svg",
+      "PackagePath": "staticwebassets\\images\\flowxperience.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\foreign.svg",
+      "PackagePath": "staticwebassets\\images\\foreign.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\frame-20229.svg",
+      "PackagePath": "staticwebassets\\images\\frame-20229.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\garage.svg",
+      "PackagePath": "staticwebassets\\images\\garage.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\garden.jpg",
+      "PackagePath": "staticwebassets\\images\\garden.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\graphic_elements.png",
+      "PackagePath": "staticwebassets\\images\\graphic_elements.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\graphics-p-1080.jpeg",
+      "PackagePath": "staticwebassets\\images\\graphics-p-1080.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\graphics-p-500.jpeg",
+      "PackagePath": "staticwebassets\\images\\graphics-p-500.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\graphics-p-800.jpeg",
+      "PackagePath": "staticwebassets\\images\\graphics-p-800.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\graphics.jpeg",
+      "PackagePath": "staticwebassets\\images\\graphics.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\group-2017.svg",
+      "PackagePath": "staticwebassets\\images\\group-2017.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\group-204.svg",
+      "PackagePath": "staticwebassets\\images\\group-204.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hedge-trimming.jpg",
+      "PackagePath": "staticwebassets\\images\\hedge-trimming.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hedges.jpg",
+      "PackagePath": "staticwebassets\\images\\hedges.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hedgetrimmer-1.jpg",
+      "PackagePath": "staticwebassets\\images\\hedgetrimmer-1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hedgetrimmer.jpg",
+      "PackagePath": "staticwebassets\\images\\hedgetrimmer.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\help-20-26-20support.svg",
+      "PackagePath": "staticwebassets\\images\\help-20-26-20support.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20image-201.webp",
+      "PackagePath": "staticwebassets\\images\\hero-20image-201.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20image-204-1.webp",
+      "PackagePath": "staticwebassets\\images\\hero-20image-204-1.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20image-204-p-1080.webp",
+      "PackagePath": "staticwebassets\\images\\hero-20image-204-p-1080.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20image-204-p-500.webp",
+      "PackagePath": "staticwebassets\\images\\hero-20image-204-p-500.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20image-204-p-800.webp",
+      "PackagePath": "staticwebassets\\images\\hero-20image-204-p-800.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20image-204.webp",
+      "PackagePath": "staticwebassets\\images\\hero-20image-204.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20image.webp",
+      "PackagePath": "staticwebassets\\images\\hero-20image.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20image_hero-section-01.svg",
+      "PackagePath": "staticwebassets\\images\\hero-20image_hero-section-01.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20video-20section-20-1-.webp",
+      "PackagePath": "staticwebassets\\images\\hero-20video-20section-20-1-.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20video-20section-20-1-p-1080.webp",
+      "PackagePath": "staticwebassets\\images\\hero-20video-20section-20-1-p-1080.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20video-20section-20-1-p-1600.webp",
+      "PackagePath": "staticwebassets\\images\\hero-20video-20section-20-1-p-1600.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20video-20section-20-1-p-500.webp",
+      "PackagePath": "staticwebassets\\images\\hero-20video-20section-20-1-p-500.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\hero-20video-20section-20-1-p-800.webp",
+      "PackagePath": "staticwebassets\\images\\hero-20video-20section-20-1-p-800.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\home-bg.png",
+      "PackagePath": "staticwebassets\\images\\home-bg.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\home.svg",
+      "PackagePath": "staticwebassets\\images\\home.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2001.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2001.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2002.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2002.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2003.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2003.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2005.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2005.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2006.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2006.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2007.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2007.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2008.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2008.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2009.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2009.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2010.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2010.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2011.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2011.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2012.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2012.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2013.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2013.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2014.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2014.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2015.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2015.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon-2016.svg",
+      "PackagePath": "staticwebassets\\images\\icon-2016.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon.svg",
+      "PackagePath": "staticwebassets\\images\\icon.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icon01.svg",
+      "PackagePath": "staticwebassets\\images\\icon01.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\icons.png",
+      "PackagePath": "staticwebassets\\images\\icons.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-20-26-20info.png",
+      "PackagePath": "staticwebassets\\images\\image-20-26-20info.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2001-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2001-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2001.png",
+      "PackagePath": "staticwebassets\\images\\image-2001.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-200222.png",
+      "PackagePath": "staticwebassets\\images\\image-200222.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-20024-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-20024-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-20024.png",
+      "PackagePath": "staticwebassets\\images\\image-20024.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-201.png",
+      "PackagePath": "staticwebassets\\images\\image-201.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2010-1.png",
+      "PackagePath": "staticwebassets\\images\\image-2010-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2010.png",
+      "PackagePath": "staticwebassets\\images\\image-2010.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2011.png",
+      "PackagePath": "staticwebassets\\images\\image-2011.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2011.webp",
+      "PackagePath": "staticwebassets\\images\\image-2011.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-20111.png",
+      "PackagePath": "staticwebassets\\images\\image-20111.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2012.png",
+      "PackagePath": "staticwebassets\\images\\image-2012.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2012.webp",
+      "PackagePath": "staticwebassets\\images\\image-2012.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2014.svg",
+      "PackagePath": "staticwebassets\\images\\image-2014.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-202.webp",
+      "PackagePath": "staticwebassets\\images\\image-202.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2022.webp",
+      "PackagePath": "staticwebassets\\images\\image-2022.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2024-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2024-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2024.png",
+      "PackagePath": "staticwebassets\\images\\image-2024.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2026.png",
+      "PackagePath": "staticwebassets\\images\\image-2026.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2027.png",
+      "PackagePath": "staticwebassets\\images\\image-2027.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2029.png",
+      "PackagePath": "staticwebassets\\images\\image-2029.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2031.png",
+      "PackagePath": "staticwebassets\\images\\image-2031.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2032.png",
+      "PackagePath": "staticwebassets\\images\\image-2032.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2033-p-1080.png",
+      "PackagePath": "staticwebassets\\images\\image-2033-p-1080.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2033-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2033-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2033-p-800.png",
+      "PackagePath": "staticwebassets\\images\\image-2033-p-800.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2033.png",
+      "PackagePath": "staticwebassets\\images\\image-2033.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2035-p-500.webp",
+      "PackagePath": "staticwebassets\\images\\image-2035-p-500.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2035.webp",
+      "PackagePath": "staticwebassets\\images\\image-2035.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2036-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2036-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2036.png",
+      "PackagePath": "staticwebassets\\images\\image-2036.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2037-p-500.webp",
+      "PackagePath": "staticwebassets\\images\\image-2037-p-500.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2037.webp",
+      "PackagePath": "staticwebassets\\images\\image-2037.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2038-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2038-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2038.png",
+      "PackagePath": "staticwebassets\\images\\image-2038.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2039.webp",
+      "PackagePath": "staticwebassets\\images\\image-2039.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-205-1.png",
+      "PackagePath": "staticwebassets\\images\\image-205-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-205.png",
+      "PackagePath": "staticwebassets\\images\\image-205.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2055-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2055-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2055.png",
+      "PackagePath": "staticwebassets\\images\\image-2055.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2056-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2056-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2056.png",
+      "PackagePath": "staticwebassets\\images\\image-2056.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2057-p-1080.png",
+      "PackagePath": "staticwebassets\\images\\image-2057-p-1080.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2057-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2057-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2057-p-800.png",
+      "PackagePath": "staticwebassets\\images\\image-2057-p-800.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2057.png",
+      "PackagePath": "staticwebassets\\images\\image-2057.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2058-p-1080.png",
+      "PackagePath": "staticwebassets\\images\\image-2058-p-1080.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2058-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2058-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2058-p-800.png",
+      "PackagePath": "staticwebassets\\images\\image-2058-p-800.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2058.png",
+      "PackagePath": "staticwebassets\\images\\image-2058.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2059-p-1080.png",
+      "PackagePath": "staticwebassets\\images\\image-2059-p-1080.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2059-p-1080.webp",
+      "PackagePath": "staticwebassets\\images\\image-2059-p-1080.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2059-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2059-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2059-p-500.webp",
+      "PackagePath": "staticwebassets\\images\\image-2059-p-500.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2059-p-800.png",
+      "PackagePath": "staticwebassets\\images\\image-2059-p-800.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2059-p-800.webp",
+      "PackagePath": "staticwebassets\\images\\image-2059-p-800.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2059.png",
+      "PackagePath": "staticwebassets\\images\\image-2059.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2059.webp",
+      "PackagePath": "staticwebassets\\images\\image-2059.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-206-1.png",
+      "PackagePath": "staticwebassets\\images\\image-206-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-206-2.png",
+      "PackagePath": "staticwebassets\\images\\image-206-2.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-206.png",
+      "PackagePath": "staticwebassets\\images\\image-206.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2061-p-1080.png",
+      "PackagePath": "staticwebassets\\images\\image-2061-p-1080.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2061-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2061-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2061-p-800.png",
+      "PackagePath": "staticwebassets\\images\\image-2061-p-800.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2061.png",
+      "PackagePath": "staticwebassets\\images\\image-2061.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2062-p-1080.png",
+      "PackagePath": "staticwebassets\\images\\image-2062-p-1080.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2062-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2062-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2062-p-800.png",
+      "PackagePath": "staticwebassets\\images\\image-2062-p-800.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2062.png",
+      "PackagePath": "staticwebassets\\images\\image-2062.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2064-p-1080.webp",
+      "PackagePath": "staticwebassets\\images\\image-2064-p-1080.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2064-p-500.webp",
+      "PackagePath": "staticwebassets\\images\\image-2064-p-500.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2064-p-800.webp",
+      "PackagePath": "staticwebassets\\images\\image-2064-p-800.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2064.webp",
+      "PackagePath": "staticwebassets\\images\\image-2064.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-207.png",
+      "PackagePath": "staticwebassets\\images\\image-207.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2072.png",
+      "PackagePath": "staticwebassets\\images\\image-2072.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2073.png",
+      "PackagePath": "staticwebassets\\images\\image-2073.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2075.png",
+      "PackagePath": "staticwebassets\\images\\image-2075.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-208.png",
+      "PackagePath": "staticwebassets\\images\\image-208.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-209-1.png",
+      "PackagePath": "staticwebassets\\images\\image-209-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-209-p-1080.png",
+      "PackagePath": "staticwebassets\\images\\image-209-p-1080.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-209-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-209-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-209-p-800.png",
+      "PackagePath": "staticwebassets\\images\\image-209-p-800.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-209.png",
+      "PackagePath": "staticwebassets\\images\\image-209.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2091-p-1080.png",
+      "PackagePath": "staticwebassets\\images\\image-2091-p-1080.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2091-p-500.png",
+      "PackagePath": "staticwebassets\\images\\image-2091-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2091-p-800.png",
+      "PackagePath": "staticwebassets\\images\\image-2091-p-800.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-2091.png",
+      "PackagePath": "staticwebassets\\images\\image-2091.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image-placeholder.svg",
+      "PackagePath": "staticwebassets\\images\\image-placeholder.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image.png",
+      "PackagePath": "staticwebassets\\images\\image.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image1.svg",
+      "PackagePath": "staticwebassets\\images\\image1.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\image11.png",
+      "PackagePath": "staticwebassets\\images\\image11.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\imail.svg",
+      "PackagePath": "staticwebassets\\images\\imail.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\img.png",
+      "PackagePath": "staticwebassets\\images\\img.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\implementation-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\implementation-1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\implementation-p-1080-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\implementation-p-1080-1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\implementation-p-1080.jpeg",
+      "PackagePath": "staticwebassets\\images\\implementation-p-1080.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\implementation-p-1600.jpeg",
+      "PackagePath": "staticwebassets\\images\\implementation-p-1600.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\implementation-p-500-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\implementation-p-500-1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\implementation-p-500.jpeg",
+      "PackagePath": "staticwebassets\\images\\implementation-p-500.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\implementation-p-800-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\implementation-p-800-1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\implementation-p-800.jpeg",
+      "PackagePath": "staticwebassets\\images\\implementation-p-800.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\implementation.jpeg",
+      "PackagePath": "staticwebassets\\images\\implementation.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\in-project-photo1-p-500.png",
+      "PackagePath": "staticwebassets\\images\\in-project-photo1-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\in-project-photo1.png",
+      "PackagePath": "staticwebassets\\images\\in-project-photo1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\in-project-photo2.png",
+      "PackagePath": "staticwebassets\\images\\in-project-photo2.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\in-project-photo3-p-500.png",
+      "PackagePath": "staticwebassets\\images\\in-project-photo3-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\in-project-photo3.png",
+      "PackagePath": "staticwebassets\\images\\in-project-photo3.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\in-project-photo4.png",
+      "PackagePath": "staticwebassets\\images\\in-project-photo4.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\in.svg",
+      "PackagePath": "staticwebassets\\images\\in.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\inner-pages-bg.png",
+      "PackagePath": "staticwebassets\\images\\inner-pages-bg.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\instagram.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\instagram.svg",
+      "PackagePath": "staticwebassets\\images\\instagram.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\instagram2.svg",
+      "PackagePath": "staticwebassets\\images\\instagram2.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\integration-icon_custom-20integrations-20copy-203.svg",
+      "PackagePath": "staticwebassets\\images\\integration-icon_custom-20integrations-20copy-203.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\journal-bg.png",
+      "PackagePath": "staticwebassets\\images\\journal-bg.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\journal-title-icon.png",
+      "PackagePath": "staticwebassets\\images\\journal-title-icon.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\lawn.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\lawncare.jpg",
+      "PackagePath": "staticwebassets\\images\\lawncare.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\lawnmower1.jpg",
+      "PackagePath": "staticwebassets\\images\\lawnmower1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\layer_1.svg",
+      "PackagePath": "staticwebassets\\images\\layer_1.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\layer_2.svg",
+      "PackagePath": "staticwebassets\\images\\layer_2.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\left-20arrow.svg",
+      "PackagePath": "staticwebassets\\images\\left-20arrow.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\leisure.jpg",
+      "PackagePath": "staticwebassets\\images\\leisure.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\like.svg",
+      "PackagePath": "staticwebassets\\images\\like.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\line.svg",
+      "PackagePath": "staticwebassets\\images\\line.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\line_07.jpg",
+      "PackagePath": "staticwebassets\\images\\line_07.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\linked-20in.svg",
+      "PackagePath": "staticwebassets\\images\\linked-20in.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\loader-20icon.svg",
+      "PackagePath": "staticwebassets\\images\\loader-20icon.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\location.svg",
+      "PackagePath": "staticwebassets\\images\\location.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\locked.svg",
+      "PackagePath": "staticwebassets\\images\\locked.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\logo-01.svg",
+      "PackagePath": "staticwebassets\\images\\logo-01.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\logo1.svg",
+      "PackagePath": "staticwebassets\\images\\logo1.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\logo2.svg",
+      "PackagePath": "staticwebassets\\images\\logo2.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\luca-bravo-xjxwbfso2f0-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\luca-bravo-xjxwbfso2f0-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\mail-p-500.png",
+      "PackagePath": "staticwebassets\\images\\mail-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\mail.png",
+      "PackagePath": "staticwebassets\\images\\mail.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\main-20brand-20logo.svg",
+      "PackagePath": "staticwebassets\\images\\main-20brand-20logo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\managementphotos_0002_foto-sushi-6anudmpilw4-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\managementphotos_0002_foto-sushi-6anudmpilw4-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\map-pin.svg",
+      "PackagePath": "staticwebassets\\images\\map-pin.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\map.svg",
+      "PackagePath": "staticwebassets\\images\\map.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\material-symbols_bed.svg",
+      "PackagePath": "staticwebassets\\images\\material-symbols_bed.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\mower.png",
+      "PackagePath": "staticwebassets\\images\\mower.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\newhome.jpg",
+      "PackagePath": "staticwebassets\\images\\newhome.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\notion-logo-1.svg",
+      "PackagePath": "staticwebassets\\images\\notion-logo-1.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-20goal.svg",
+      "PackagePath": "staticwebassets\\images\\noun-20goal.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-20research.svg",
+      "PackagePath": "staticwebassets\\images\\noun-20research.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-accessibility-2064133.png",
+      "PackagePath": "staticwebassets\\images\\noun-accessibility-2064133.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-bathtub-399207-201.svg",
+      "PackagePath": "staticwebassets\\images\\noun-bathtub-399207-201.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-burj-khalifa.svg",
+      "PackagePath": "staticwebassets\\images\\noun-burj-khalifa.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-collaboration-6515987.svg",
+      "PackagePath": "staticwebassets\\images\\noun-collaboration-6515987.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-commitment-6119379.png",
+      "PackagePath": "staticwebassets\\images\\noun-commitment-6119379.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-dish-washer-1035800.svg",
+      "PackagePath": "staticwebassets\\images\\noun-dish-washer-1035800.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-eiffel-tower-1044127-201.svg",
+      "PackagePath": "staticwebassets\\images\\noun-eiffel-tower-1044127-201.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-elevator-374179.svg",
+      "PackagePath": "staticwebassets\\images\\noun-elevator-374179.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-enterprise-5585073.svg",
+      "PackagePath": "staticwebassets\\images\\noun-enterprise-5585073.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-free-338463.svg",
+      "PackagePath": "staticwebassets\\images\\noun-free-338463.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-laundry-2131641.svg",
+      "PackagePath": "staticwebassets\\images\\noun-laundry-2131641.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-office-1336755-201.svg",
+      "PackagePath": "staticwebassets\\images\\noun-office-1336755-201.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-office-1419153-201.svg",
+      "PackagePath": "staticwebassets\\images\\noun-office-1419153-201.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-pool-1302256.svg",
+      "PackagePath": "staticwebassets\\images\\noun-pool-1302256.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-security-cameras-197912.svg",
+      "PackagePath": "staticwebassets\\images\\noun-security-cameras-197912.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\noun-statue-of-liberty.svg",
+      "PackagePath": "staticwebassets\\images\\noun-statue-of-liberty.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\objects.png",
+      "PackagePath": "staticwebassets\\images\\objects.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\objects.svg",
+      "PackagePath": "staticwebassets\\images\\objects.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\partners.svg",
+      "PackagePath": "staticwebassets\\images\\partners.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\password.svg",
+      "PackagePath": "staticwebassets\\images\\password.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\persona-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\persona-image1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\phone-call.svg",
+      "PackagePath": "staticwebassets\\images\\phone-call.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\phone.svg",
+      "PackagePath": "staticwebassets\\images\\phone.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\play-20button-20icon.svg",
+      "PackagePath": "staticwebassets\\images\\play-20button-20icon.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\play-20button.svg",
+      "PackagePath": "staticwebassets\\images\\play-20button.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\plus-to-x-white.json",
+      "PackagePath": "staticwebassets\\images\\plus-to-x-white.json"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post-p-500.png",
+      "PackagePath": "staticwebassets\\images\\post-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post.png",
+      "PackagePath": "staticwebassets\\images\\post.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post1-p-500.png",
+      "PackagePath": "staticwebassets\\images\\post1-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post1.png",
+      "PackagePath": "staticwebassets\\images\\post1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post10-p-500.png",
+      "PackagePath": "staticwebassets\\images\\post10-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post10.png",
+      "PackagePath": "staticwebassets\\images\\post10.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post11-p-500.png",
+      "PackagePath": "staticwebassets\\images\\post11-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post11.png",
+      "PackagePath": "staticwebassets\\images\\post11.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post12-p-500.png",
+      "PackagePath": "staticwebassets\\images\\post12-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post12.png",
+      "PackagePath": "staticwebassets\\images\\post12.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post2-p-500.png",
+      "PackagePath": "staticwebassets\\images\\post2-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post2.png",
+      "PackagePath": "staticwebassets\\images\\post2.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post3-p-500.png",
+      "PackagePath": "staticwebassets\\images\\post3-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post3.png",
+      "PackagePath": "staticwebassets\\images\\post3.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post4-p-500.png",
+      "PackagePath": "staticwebassets\\images\\post4-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post4.png",
+      "PackagePath": "staticwebassets\\images\\post4.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post5-p-500.png",
+      "PackagePath": "staticwebassets\\images\\post5-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post5.png",
+      "PackagePath": "staticwebassets\\images\\post5.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post6-p-500.png",
+      "PackagePath": "staticwebassets\\images\\post6-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post6.png",
+      "PackagePath": "staticwebassets\\images\\post6.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post7-p-500.png",
+      "PackagePath": "staticwebassets\\images\\post7-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post7.png",
+      "PackagePath": "staticwebassets\\images\\post7.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post9-p-500.png",
+      "PackagePath": "staticwebassets\\images\\post9-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\post9.png",
+      "PackagePath": "staticwebassets\\images\\post9.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\proposal_proposal-20accepted.svg",
+      "PackagePath": "staticwebassets\\images\\proposal_proposal-20accepted.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\pruning-shears.png",
+      "PackagePath": "staticwebassets\\images\\pruning-shears.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\quote.png",
+      "PackagePath": "staticwebassets\\images\\quote.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\rectangle-206-p-500.png",
+      "PackagePath": "staticwebassets\\images\\rectangle-206-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\rectangle-206.png",
+      "PackagePath": "staticwebassets\\images\\rectangle-206.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\rectangle-207-p-500.webp",
+      "PackagePath": "staticwebassets\\images\\rectangle-207-p-500.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\rectangle-207.webp",
+      "PackagePath": "staticwebassets\\images\\rectangle-207.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\rectangle-2081.png",
+      "PackagePath": "staticwebassets\\images\\rectangle-2081.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\result.svg",
+      "PackagePath": "staticwebassets\\images\\result.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\ri_twitter-x-fill.svg",
+      "PackagePath": "staticwebassets\\images\\ri_twitter-x-fill.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\right-20arrow.svg",
+      "PackagePath": "staticwebassets\\images\\right-20arrow.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\right-20arrow2.svg",
+      "PackagePath": "staticwebassets\\images\\right-20arrow2.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\sales.svg",
+      "PackagePath": "staticwebassets\\images\\sales.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\satoshi-black.ttf",
+      "PackagePath": "staticwebassets\\images\\satoshi-black.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\satoshi-bold.ttf",
+      "PackagePath": "staticwebassets\\images\\satoshi-bold.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\satoshi-light.ttf",
+      "PackagePath": "staticwebassets\\images\\satoshi-light.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\satoshi-medium.ttf",
+      "PackagePath": "staticwebassets\\images\\satoshi-medium.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\satoshi-regular.ttf",
+      "PackagePath": "staticwebassets\\images\\satoshi-regular.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\search-1.svg",
+      "PackagePath": "staticwebassets\\images\\search-1.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\search.svg",
+      "PackagePath": "staticwebassets\\images\\search.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\service-title-icon.png",
+      "PackagePath": "staticwebassets\\images\\service-title-icon.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\service1.png",
+      "PackagePath": "staticwebassets\\images\\service1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\service2.png",
+      "PackagePath": "staticwebassets\\images\\service2.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\service3.png",
+      "PackagePath": "staticwebassets\\images\\service3.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\service4.png",
+      "PackagePath": "staticwebassets\\images\\service4.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\services-20icon-2002.svg",
+      "PackagePath": "staticwebassets\\images\\services-20icon-2002.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\shape.png",
+      "PackagePath": "staticwebassets\\images\\shape.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\shape.svg",
+      "PackagePath": "staticwebassets\\images\\shape.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\slack-new-logo.svg",
+      "PackagePath": "staticwebassets\\images\\slack-new-logo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\smile.svg",
+      "PackagePath": "staticwebassets\\images\\smile.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\social-20graph-20image.jpg",
+      "PackagePath": "staticwebassets\\images\\social-20graph-20image.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\sprinkler.jpg",
+      "PackagePath": "staticwebassets\\images\\sprinkler.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\sprinklers.png",
+      "PackagePath": "staticwebassets\\images\\sprinklers.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\sprinkles-01.svg",
+      "PackagePath": "staticwebassets\\images\\sprinkles-01.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\sprinkles-04.svg",
+      "PackagePath": "staticwebassets\\images\\sprinkles-04.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\sprinkles-05.svg",
+      "PackagePath": "staticwebassets\\images\\sprinkles-05.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\sprinkles-06.svg",
+      "PackagePath": "staticwebassets\\images\\sprinkles-06.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\square_white.png",
+      "PackagePath": "staticwebassets\\images\\square_white.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\star-1.svg",
+      "PackagePath": "staticwebassets\\images\\star-1.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\star.svg",
+      "PackagePath": "staticwebassets\\images\\star.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\stats-bg.png",
+      "PackagePath": "staticwebassets\\images\\stats-bg.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\stats-title-icon.png",
+      "PackagePath": "staticwebassets\\images\\stats-title-icon.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\stats_dott_03.png",
+      "PackagePath": "staticwebassets\\images\\stats_dott_03.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\story-20image-p-500.png",
+      "PackagePath": "staticwebassets\\images\\story-20image-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\story-20image-p-800.png",
+      "PackagePath": "staticwebassets\\images\\story-20image-p-800.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\story-20image.png",
+      "PackagePath": "staticwebassets\\images\\story-20image.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\strategy-p-1080.jpeg",
+      "PackagePath": "staticwebassets\\images\\strategy-p-1080.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\strategy-p-1600.jpeg",
+      "PackagePath": "staticwebassets\\images\\strategy-p-1600.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\strategy-p-500.jpeg",
+      "PackagePath": "staticwebassets\\images\\strategy-p-500.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\strategy-p-800.jpeg",
+      "PackagePath": "staticwebassets\\images\\strategy-p-800.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\strategy.jpeg",
+      "PackagePath": "staticwebassets\\images\\strategy.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\team-20work-20image-p-500.webp",
+      "PackagePath": "staticwebassets\\images\\team-20work-20image-p-500.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\team-20work-20image.webp",
+      "PackagePath": "staticwebassets\\images\\team-20work-20image.webp"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\team1.png",
+      "PackagePath": "staticwebassets\\images\\team1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\team2.png",
+      "PackagePath": "staticwebassets\\images\\team2.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\team3.png",
+      "PackagePath": "staticwebassets\\images\\team3.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\technics-p-500.png",
+      "PackagePath": "staticwebassets\\images\\technics-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\technics.png",
+      "PackagePath": "staticwebassets\\images\\technics.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\test_submit-20your-20request.svg",
+      "PackagePath": "staticwebassets\\images\\test_submit-20your-20request.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\testimonial-20-2005-20slider-20arrow-20left-white-.png",
+      "PackagePath": "staticwebassets\\images\\testimonial-20-2005-20slider-20arrow-20left-white-.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\testimonial-20-2005-20slider-20arrow-20right-20.png",
+      "PackagePath": "staticwebassets\\images\\testimonial-20-2005-20slider-20arrow-20right-20.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\testimonial-title-icon.png",
+      "PackagePath": "staticwebassets\\images\\testimonial-title-icon.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\testiomonial1.png",
+      "PackagePath": "staticwebassets\\images\\testiomonial1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\testiomonial2.png",
+      "PackagePath": "staticwebassets\\images\\testiomonial2.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\testiomonial3.png",
+      "PackagePath": "staticwebassets\\images\\testiomonial3.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\trees.jpg",
+      "PackagePath": "staticwebassets\\images\\trees.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\treeservice.jpg",
+      "PackagePath": "staticwebassets\\images\\treeservice.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\trust.svg",
+      "PackagePath": "staticwebassets\\images\\trust.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\tw.svg",
+      "PackagePath": "staticwebassets\\images\\tw.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\twitter-x.svg",
+      "PackagePath": "staticwebassets\\images\\twitter-x.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\umbrela.svg",
+      "PackagePath": "staticwebassets\\images\\umbrela.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\undraw_authentication_fsn5.svg",
+      "PackagePath": "staticwebassets\\images\\undraw_authentication_fsn5.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\undraw_education_f8ru.svg",
+      "PackagePath": "staticwebassets\\images\\undraw_education_f8ru.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\undraw_learning_-2-q1h.svg",
+      "PackagePath": "staticwebassets\\images\\undraw_learning_-2-q1h.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\undraw_newsletter_re_wrob.svg",
+      "PackagePath": "staticwebassets\\images\\undraw_newsletter_re_wrob.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\undraw_not_found_-60-pq.svg",
+      "PackagePath": "staticwebassets\\images\\undraw_not_found_-60-pq.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\undraw_teaching_re_g7e3.svg",
+      "PackagePath": "staticwebassets\\images\\undraw_teaching_re_g7e3.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\undraw_website_builder_re_ii6e.svg",
+      "PackagePath": "staticwebassets\\images\\undraw_website_builder_re_ii6e.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_arrow-20copy-202.png",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_arrow-20copy-202.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_arrow-20copy.png",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_arrow-20copy.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_arrow.png",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_arrow.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_black-20x-20copy-202.png",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_black-20x-20copy-202.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_black-20x-20copy.png",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_black-20x-20copy.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_black-20x.svg",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_black-20x.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_email-20black.png",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_email-20black.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_facebook-20black.png",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_facebook-20black.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_instagram-20black.png",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_instagram-20black.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_reddit-20black.png",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_reddit-20black.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_thumbsdown.png",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_thumbsdown.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_thumbsup.png",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_thumbsup.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\utility-20icons_twitter-20black.png",
+      "PackagePath": "staticwebassets\\images\\utility-20icons_twitter-20black.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\vector.png",
+      "PackagePath": "staticwebassets\\images\\vector.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\vector.svg",
+      "PackagePath": "staticwebassets\\images\\vector.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\vectors-wrapper.svg",
+      "PackagePath": "staticwebassets\\images\\vectors-wrapper.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\vegetables.jpg",
+      "PackagePath": "staticwebassets\\images\\vegetables.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\webflow-20platform-20ilustrations_class-20naming.svg",
+      "PackagePath": "staticwebassets\\images\\webflow-20platform-20ilustrations_class-20naming.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\webflow-20platform-20ilustrations_custom-20integrations-20copy-202.svg",
+      "PackagePath": "staticwebassets\\images\\webflow-20platform-20ilustrations_custom-20integrations-20copy-202.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\webflow-20platform-20ilustrations_custom-20integrations-20copy.svg",
+      "PackagePath": "staticwebassets\\images\\webflow-20platform-20ilustrations_custom-20integrations-20copy.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\webflow-20platform-20ilustrations_custom-20integrations.svg",
+      "PackagePath": "staticwebassets\\images\\webflow-20platform-20ilustrations_custom-20integrations.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\webflow-20platform-20ilustrations_pixel-20perfect.svg",
+      "PackagePath": "staticwebassets\\images\\webflow-20platform-20ilustrations_pixel-20perfect.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\webflow-20platform-20ilustrations_quote.svg",
+      "PackagePath": "staticwebassets\\images\\webflow-20platform-20ilustrations_quote.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\webflow-badge-icon-d2.89e12c322e.svg",
+      "PackagePath": "staticwebassets\\images\\webflow-badge-icon-d2.89e12c322e.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\webflow-badge-text-d2.c82cec3b78.svg",
+      "PackagePath": "staticwebassets\\images\\webflow-badge-text-d2.c82cec3b78.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\webflow-icon.svg",
+      "PackagePath": "staticwebassets\\images\\webflow-icon.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\website_design-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\website_design-1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\website_design-p-1080-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\website_design-p-1080-1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\website_design-p-1080.jpeg",
+      "PackagePath": "staticwebassets\\images\\website_design-p-1080.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\website_design-p-1600-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\website_design-p-1600-1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\website_design-p-1600.jpeg",
+      "PackagePath": "staticwebassets\\images\\website_design-p-1600.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\website_design-p-500-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\website_design-p-500-1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\website_design-p-500.jpeg",
+      "PackagePath": "staticwebassets\\images\\website_design-p-500.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\website_design-p-800-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\website_design-p-800-1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\website_design-p-800.jpeg",
+      "PackagePath": "staticwebassets\\images\\website_design-p-800.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\website_design.jpeg",
+      "PackagePath": "staticwebassets\\images\\website_design.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\white-20logo.svg",
+      "PackagePath": "staticwebassets\\images\\white-20logo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work1.png",
+      "PackagePath": "staticwebassets\\images\\work1.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work10.png",
+      "PackagePath": "staticwebassets\\images\\work10.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work11.png",
+      "PackagePath": "staticwebassets\\images\\work11.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work12-p-500.png",
+      "PackagePath": "staticwebassets\\images\\work12-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work12.png",
+      "PackagePath": "staticwebassets\\images\\work12.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work2.png",
+      "PackagePath": "staticwebassets\\images\\work2.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work3.png",
+      "PackagePath": "staticwebassets\\images\\work3.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work4-p-500.png",
+      "PackagePath": "staticwebassets\\images\\work4-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work4.png",
+      "PackagePath": "staticwebassets\\images\\work4.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work5.png",
+      "PackagePath": "staticwebassets\\images\\work5.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work6-p-500.png",
+      "PackagePath": "staticwebassets\\images\\work6-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work6.png",
+      "PackagePath": "staticwebassets\\images\\work6.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work7-p-500.png",
+      "PackagePath": "staticwebassets\\images\\work7-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work7.png",
+      "PackagePath": "staticwebassets\\images\\work7.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work8-p-500.png",
+      "PackagePath": "staticwebassets\\images\\work8-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work8.png",
+      "PackagePath": "staticwebassets\\images\\work8.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work9-p-500.png",
+      "PackagePath": "staticwebassets\\images\\work9-p-500.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\work9.png",
+      "PackagePath": "staticwebassets\\images\\work9.png"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\x.svg",
+      "PackagePath": "staticwebassets\\images\\x.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\yardtools.jpg",
+      "PackagePath": "staticwebassets\\images\\yardtools.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\images\\zillow.svg",
+      "PackagePath": "staticwebassets\\images\\zillow.svg"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\js\\flowxperience.a5a583a8d.js",
+      "PackagePath": "staticwebassets\\js\\flowxperience.a5a583a8d.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\js\\webflow-script.js",
+      "PackagePath": "staticwebassets\\js\\webflow-script.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\post\\5-big-websites-that-failed-and-find-out-the-reasons-why.html",
+      "PackagePath": "staticwebassets\\post\\5-big-websites-that-failed-and-find-out-the-reasons-why.html"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\post\\9-digital-marketing-habits-could-be-holding-back-your-business.html",
+      "PackagePath": "staticwebassets\\post\\9-digital-marketing-habits-could-be-holding-back-your-business.html"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\post\\online-reputation-management-strategies-and-best-practices.html",
+      "PackagePath": "staticwebassets\\post\\online-reputation-management-strategies-and-best-practices.html"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\post\\the-influence-of-branding-a-driver-for-success.html",
+      "PackagePath": "staticwebassets\\post\\the-influence-of-branding-a-driver-for-success.html"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\post\\what-is-social-audio-and-how-can-your-business-use-it.html",
+      "PackagePath": "staticwebassets\\post\\what-is-social-audio-and-how-can-your-business-use-it.html"
+    },
+    {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\post\\what-you-should-know-about-facebook-branded-content.html",
+      "PackagePath": "staticwebassets\\post\\what-you-should-know-about-facebook-branded-content.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApp.props",
+      "PackagePath": "build\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApp.props",
+      "PackagePath": "buildTransitive\\WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
