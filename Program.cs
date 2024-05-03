@@ -4,7 +4,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.Configuration;
 using WebApp.Models;
-using WebApp.Services;
+using WebApp;
+using Hotel.ATR.Portal;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -36,9 +37,12 @@ builder.Logging.AddConsole();
 //		options.Cookie.Name = "MyAuthCookie";
 //		options.LoginPath = "/Account/Login"; // Путь к странице входа
 //	});
-builder.Services.AddDbContext<_DbContext>(options=>
-                    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-builder.Services.AddScoped<IRepoMessage,RepoMessage>();
+
+// подключение к базе данных, строка подключения из appsettings
+builder.Services.AddDbContext<WebAppContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

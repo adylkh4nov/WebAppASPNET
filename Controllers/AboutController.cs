@@ -1,16 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.SqlServer.Server;
 using WebApp.Models;
-using WebApp.Services;
+
 
 namespace WebApp.Controllers
 {
 	public class AboutController : Controller
 	{
-		private readonly _DbContext _context;
 
-		public AboutController(_DbContext context)
+		public AboutController()
 		{
-			_context = context ?? throw new ArgumentNullException(nameof(context));
+			
 		}
 
 		public IActionResult Index()
@@ -24,11 +24,16 @@ namespace WebApp.Controllers
 		}
 
 		[HttpPost]
-		public IActionResult CreateMessage(MessageASP message)
+		public async Task<IActionResult> CreateMessage(Message message)
 		{
 			try
-			{ 
-				_context.Add(message);
+			{
+				using (var httpClient = new HttpClient())
+				{
+					var res = await httpClient.PostAsJsonAsync("http://localhost:64508/api/Message", message);
+					return RedirectToAction("Index");
+				}
+
 
 			}
 			catch (Exception)
