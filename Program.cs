@@ -6,23 +6,13 @@ using Microsoft.Extensions.Logging.Configuration;
 using WebApp.Models;
 using WebApp;
 using Hotel.ATR.Portal;
+using WebApp.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-//// Настройка локализации
-//builder.Services.AddLocalization(options => options.ResourcesPath = "Resources");
-
-//builder.Services.AddControllersWithViews()
-//	.AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
-//	.AddDataAnnotationsLocalization();
-
-//builder.Services.AddHttpContextAccessor();
-
-// Регистрация вашей службы IRepository
-//builder.Services.AddScoped<IRepository, Repository>();
 
 builder.Services.AddMvc();
 
@@ -30,20 +20,16 @@ builder.Services.AddMvc();
 builder.Logging.AddConfiguration(builder.Configuration.GetSection("Logging"));
 builder.Logging.AddConsole();
 
-//// Настройка аутентификации и авторизации
-//builder.Services.AddAuthentication("MyAuthenticationScheme")
-//	.AddCookie("MyAuthenticationScheme", options =>
-//	{
-//		options.Cookie.Name = "MyAuthCookie";
-//		options.LoginPath = "/Account/Login"; // Путь к странице входа
-//	});
 
+builder.Services.AddHttpClient<AccountService>();
+
+// Остальная конфигурация...
+builder.Services.AddControllersWithViews();
 // подключение к базе данных, строка подключения из appsettings
 builder.Services.AddDbContext<WebAppContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
-
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -57,6 +43,7 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
 
 
 app.Logger.LogError("Test");

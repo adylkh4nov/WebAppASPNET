@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\css\\SignInStyle.css",
+      "PackagePath": "staticwebassets\\css\\SignInStyle.css"
+    },
+    {
       "Id": "D:\\Projects\\dotnet\\WebApp\\WebApp\\wwwroot\\css\\flowxperience.7cb416e62.css",
       "PackagePath": "staticwebassets\\css\\flowxperience.7cb416e62.css"
     },

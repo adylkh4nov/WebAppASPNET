@@ -3,9 +3,11 @@ using Microsoft.Extensions.Localization;
 using Nest;
 using System.Diagnostics;
 using WebApp.Models;
+using WebApp.Services;
 
 namespace WebApp.Controllers
 {
+    [AuthorizeCookie]
     public class HomeController : Controller
     {
 		private readonly ILogger<HomeController> _logger;

@@ -1,8 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using WebApp.Services;
 
 namespace WebApp.Controllers
 {
-	public class CaseStudyController : Controller
+    [AuthorizeCookie]
+    public class CaseStudyController : Controller
 	{
 		public IActionResult Index()
 		{

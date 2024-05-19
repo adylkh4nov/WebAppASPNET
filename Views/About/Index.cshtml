@@ -1,8 +1,5 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model WebApp.Models.Message
+
 <div class="main-wrapper">
 	<div class="section-about">
 		<div class="padding-global">
@@ -267,27 +264,27 @@
 							<img src="~images/objects.png" loading="lazy" alt="" class="contact-image" />
 						</div>
 						<div id="w-node-a28b55ed-9d78-13be-8411-16155827105c-58271052" data-w-id="a28b55ed-9d78-13be-8411-16155827105c" class="contact-from-block w-form">
-							<form id="email-form" name="email-form" data-name="Email Form" method="get" class="contact-from" data-wf-page-id="65bf337066010ad14f172d72" data-wf-element-id="a28b55ed-9d78-13be-8411-16155827105d">
+							<form asp-controller="About" asp-action="CreateMessage" id="email-form" name="email-form" data-name="Email Form" method="get" class="contact-from" data-wf-page-id="65bf337066010ad14f172d72" data-wf-element-id="a28b55ed-9d78-13be-8411-16155827105d">
 								<div class="w-layout-grid contact-input-grid">
 									<div class="input-wrapper">
 										<label for="Name-3" class="text-size-medium is-contact">Full Name</label>
-										<input class="input w-input" maxlength="256" name="Name" data-name="Name" placeholder="Ex. Jone Alex" type="text" id="Name-3" required="" />
+										<input asp-for="Fullname" class="input w-input" maxlength="256" name="Name" data-name="Fullname" placeholder="Ex. Jone Alex" type="text" id="Name-3" required="" />
 									</div>
 									<div class="input-wrapper">
 										<label for="Email-4" class="text-size-medium is-contact">Email address</label>
-										<input class="input w-input" maxlength="256" name="Email" data-name="Email" placeholder="Ex. jone@example.com" type="email" id="Email-4" required="" />
+										<input asp-for="Email" class="input w-input" maxlength="256" name="Email" class="input w-input" maxlength="256" name="Email" data-name="Email" placeholder="Ex. jone@example.com" type="email" id="Email-4" required="" />
 									</div>
 									<div class="input-wrapper">
 										<label for="Company-Name-3" class="text-size-medium is-contact">Company</label>
-										<input class="input w-input" maxlength="256" name="Company-Name" data-name="Company Name" placeholder="Ex. webocean" type="text" id="Company-Name-3" required="" />
+										<input asp-for="Company" class="input w-input" maxlength="256" name="Company" class="input w-input" maxlength="256" name="Company-Name" data-name="Company Name" placeholder="Ex. webocean" type="text" id="Company-Name-3" required="" />
 									</div>
 									<div class="input-wrapper">
 										<label for="Budget-3" class="text-size-medium is-contact">Budget</label>
-										<input class="input w-input" maxlength="256" name="Budget" data-name="Budget" placeholder="$45664-465850" type="text" id="Budget-3" required="" />
+										<input asp-for="Budget" class="input w-input" maxlength="256" name="Budget" data-name="Budget" placeholder="$45664-465850" type="text" id="Budget-3" required="" />
 									</div>
 									<div id="w-node-a28b55ed-9d78-13be-8411-16155827106f-58271052" class="input-wrapper">
 										<label for="Message" class="text-size-medium is-contact">Message</label>
-										<textarea placeholder="What can we help you with?" maxlength="5000" id="Message" name="Message" data-name="Message" class="input is-massage w-input"></textarea>
+										<textarea asp-for="MessageText" placeholder="What can we help you with?" maxlength="5000" id="MessageText" name="MessageText" data-name="Message" class="input is-massage w-input"></textarea>
 									</div>
 								</div>
 								<div class="contact-service-wrapper">

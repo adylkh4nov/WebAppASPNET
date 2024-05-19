@@ -1,153 +1,62 @@
-﻿<div class="main-wrapper">
+﻿@model IEnumerable<WebApp.Models.Message>
+<div class="main-wrapper">
 	<div class="section-service">
 		<div class="padding-global">
 			<div class="container-large">
 				<div class="padding-section-large">
 					<div class="service-component">
-						<div data-w-id="3d15b36b-10d3-f0e0-dd89-7a363de13a4b" style="opacity:10" class="service-top-content">
-							<h2 class="heading-style-h2">Our Digital Marketing Services</h2>
-							<div class="text-size-medium">Unveiling Comprehensive Solutions Through Our Cutting-Edge Digital Marketing Services</div>
-						</div>
-						<div class="padding-bottom padding-medium"></div>
-						<div class="service-collection-list-wrapper w-dyn-list">
-							<div data-w-id="3d15b36b-10d3-f0e0-dd89-7a363de13a52" style="opacity:10" role="list" class="service-collection-list w-dyn-items">
-								<div role="listitem" class="service-collection-list-item w-dyn-item">
-									<a data-w-id="3d15b36b-10d3-f0e0-dd89-7a363de13a54" href="/service/seo-search-engine-optimization" class="service-card w-inline-block">
-										<div class="service-icon-wrapper">
-											<img alt="" loading="lazy" src="~/images/icon-2003.svg" class="service-icon" />
-										</div>
-										<div style="height:65px" class="service-card-content">
-											<div class="margin-bottom margin-xsmall">
-												<h5 class="heading-style-h5 text-color-white">SEO (Search Engine Optimization)</h5>
-											</div>
-											<p class="text-size-regular text-color-gray">We can help you achieve high rankings in the major search engines.</p>
-											<div class="padding-bottom padding-small"></div>
-											<div class="service-arrow-button">
-												<img src="~/images/right-20arrow.svg" loading="lazy" alt="" />
-											</div>
-										</div>
-									</a>
+						<h2 class="heading-style-h2">All messages</h2>
+						<div class="messages" style="display: flex;
+							flex-direction: column;
+							gap: 20px;
+							padding: 20px;
+							background-color: #f4f4f4;
+							border-radius: 8px;
+							max-width: 800px;
+							margin: 0 auto;
+">			
+							@foreach (var msg in Model)
+							{
+								<div class="message" style="padding: 20px;
+							background-color: #ffffff;
+							border: 1px solid #e0e0e0;
+							border-radius: 8px;
+							box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1
+							.message p {
+							margin: 0 0 10px 0;
+							}
+
+							.message p:last-child {
+							margin-bottom: 0;
+							}
+
+							.message-fullname {
+							font-weight: bold;
+							font-size: 1.2rem;
+							}
+
+							.message-email {
+							color: #555555;
+							font-size: 1rem;
+							}
+
+							.message-text {
+							font-size: 1rem;
+							line-height: 1.5;
+							}">
+									
+									<p>Fullname: @msg.Fullname</p>
+									<p>Email: @msg.Email</p>
+									<p>Message: @msg.MessageText</p>
+									<p>Company: @msg.Company</p>
+									<p>Budget : @msg.Budget</p>
+									<form method="post" asp-controller="About" asp-action="Delete">
+										<input type="hidden" name="id" value="@msg.Id" />
+										<button type="submit">Удалить</button>
+									</form>
 								</div>
-								<div role="listitem" class="service-collection-list-item w-dyn-item">
-									<a data-w-id="3d15b36b-10d3-f0e0-dd89-7a363de13a54" href="/service/smm-social-media-marketing" class="service-card w-inline-block">
-										<div class="service-icon-wrapper">
-											<img alt="" loading="lazy" src="~/images/services-20icon-2002.svg" class="service-icon" />
-										</div>
-										<div style="height:65px" class="service-card-content">
-											<div class="margin-bottom margin-xsmall">
-												<h5 class="heading-style-h5 text-color-white">SMM (Social Media Marketing)</h5>
-											</div>
-											<p class="text-size-regular text-color-gray">We can help you achieve high rankings in the major search engines.</p>
-											<div class="padding-bottom padding-small"></div>
-											<div class="service-arrow-button">
-												<img src="~/images/right-20arrow.svg" loading="lazy" alt="" />
-											</div>
-										</div>
-									</a>
-								</div>
-								<div role="listitem" class="service-collection-list-item w-dyn-item">
-									<a data-w-id="3d15b36b-10d3-f0e0-dd89-7a363de13a54" href="/service/website-design-development-" class="service-card w-inline-block">
-										<div class="service-icon-wrapper">
-											<img alt="" loading="lazy" src="~/images/icon-2005.svg" class="service-icon" />
-										</div>
-										<div style="height:65px" class="service-card-content">
-											<div class="margin-bottom margin-xsmall">
-												<h5 class="heading-style-h5 text-color-white">Website Design &amp; Development </h5>
-											</div>
-											<p class="text-size-regular text-color-gray">We can help you achieve high rankings in the major search engines.</p>
-											<div class="padding-bottom padding-small"></div>
-											<div class="service-arrow-button">
-												<img src="~/images/right-20arrow.svg" loading="lazy" alt="" />
-											</div>
-										</div>
-									</a>
-								</div>
-								<div role="listitem" class="service-collection-list-item w-dyn-item">
-									<a data-w-id="3d15b36b-10d3-f0e0-dd89-7a363de13a54" href="/service/email-marketing-ppc-marketing" class="service-card w-inline-block">
-										<div class="service-icon-wrapper">
-											<img alt="" loading="lazy" src="~/images/icon-2006.svg" class="service-icon" />
-										</div>
-										<div style="height:65px" class="service-card-content">
-											<div class="margin-bottom margin-xsmall">
-												<h5 class="heading-style-h5 text-color-white">Email Marketing &amp; PPC Marketing</h5>
-											</div>
-											<p class="text-size-regular text-color-gray">We can help you achieve high rankings in the major search engines.</p>
-											<div class="padding-bottom padding-small"></div>
-											<div class="service-arrow-button">
-												<img src="~/images/right-20arrow.svg" loading="lazy" alt="" />
-											</div>
-										</div>
-									</a>
-								</div>
-								<div role="listitem" class="service-collection-list-item w-dyn-item">
-									<a data-w-id="3d15b36b-10d3-f0e0-dd89-7a363de13a54" href="/service/amazon-marketing" class="service-card w-inline-block">
-										<div class="service-icon-wrapper">
-											<img alt="" loading="lazy" src="~/images/icon-2010.svg" class="service-icon" />
-										</div>
-										<div style="height:65px" class="service-card-content">
-											<div class="margin-bottom margin-xsmall">
-												<h5 class="heading-style-h5 text-color-white">Amazon Marketing</h5>
-											</div>
-											<p class="text-size-regular text-color-gray">We can help you achieve high rankings in the major search engines.</p>
-											<div class="padding-bottom padding-small"></div>
-											<div class="service-arrow-button">
-												<img src="~/images/right-20arrow.svg" loading="lazy" alt="" />
-											</div>
-										</div>
-									</a>
-								</div>
-								<div role="listitem" class="service-collection-list-item w-dyn-item">
-									<a data-w-id="3d15b36b-10d3-f0e0-dd89-7a363de13a54" href="/service/video-marketing" class="service-card w-inline-block">
-										<div class="service-icon-wrapper">
-											<img alt="" loading="lazy" src="~/images/icon-2009.svg" class="service-icon" />
-										</div>
-										<div style="height:65px" class="service-card-content">
-											<div class="margin-bottom margin-xsmall">
-												<h5 class="heading-style-h5 text-color-white">Video Marketing </h5>
-											</div>
-											<p class="text-size-regular text-color-gray">We can help you achieve high rankings in the major search engines.</p>
-											<div class="padding-bottom padding-small"></div>
-											<div class="service-arrow-button">
-												<img src="~/images/right-20arrow.svg" loading="lazy" alt="" />
-											</div>
-										</div>
-									</a>
-								</div>
-								<div role="listitem" class="service-collection-list-item w-dyn-item">
-									<a data-w-id="3d15b36b-10d3-f0e0-dd89-7a363de13a54" href="/service/conversion-rate-optimization" class="service-card w-inline-block">
-										<div class="service-icon-wrapper">
-											<img alt="" loading="lazy" src="~/images/icon-2008.svg" class="service-icon" />
-										</div>
-										<div style="height:65px" class="service-card-content">
-											<div class="margin-bottom margin-xsmall">
-												<h5 class="heading-style-h5 text-color-white">Conversion Rate Optimization</h5>
-											</div>
-											<p class="text-size-regular text-color-gray">We can help you achieve high rankings in the major search engines.</p>
-											<div class="padding-bottom padding-small"></div>
-											<div class="service-arrow-button">
-												<img src="~/images/right-20arrow.svg" loading="lazy" alt="" />
-											</div>
-										</div>
-									</a>
-								</div>
-								<div role="listitem" class="service-collection-list-item w-dyn-item">
-									<a data-w-id="3d15b36b-10d3-f0e0-dd89-7a363de13a54" href="/service/influencer-marketing" class="service-card w-inline-block">
-										<div class="service-icon-wrapper">
-											<img alt="" loading="lazy" src="~/images/icon-2007.svg" class="service-icon" />
-										</div>
-										<div style="height:65px" class="service-card-content">
-											<div class="margin-bottom margin-xsmall">
-												<h5 class="heading-style-h5 text-color-white">Influencer Marketing</h5>
-											</div>
-											<p class="text-size-regular text-color-gray">We can help you achieve high rankings in the major search engines.</p>
-											<div class="padding-bottom padding-small"></div>
-											<div class="service-arrow-button">
-												<img src="~/images/right-20arrow.svg" loading="lazy" alt="" />
-											</div>
-										</div>
-									</a>
-								</div>
-							</div>
+							}
+
 						</div>
 					</div>
 				</div>

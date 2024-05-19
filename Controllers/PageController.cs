@@ -1,8 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using WebApp.Services;
 
 namespace WebApp.Controllers
 {
-	public class PageController : Controller
+    [AuthorizeCookie]
+    public class PageController : Controller
 	{
 		public IActionResult Blog()
 		{

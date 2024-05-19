@@ -7,6 +7,6 @@
 		public string Company { get; set; }
 		public decimal Budget { get; set; }
 		public string MessageText { get; set; }
-
+		public int Id { get; set; }
 	}
 }

@@ -1,16 +1,18 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.SqlServer.Server;
 using WebApp.Models;
+using WebApp.Services;
 
 
 namespace WebApp.Controllers
 {
-	public class AboutController : Controller
+    [AuthorizeCookie]
+    public class AboutController : Controller
 	{
 
 		public AboutController()
 		{
-			
+
 		}
 
 		public IActionResult Index()
@@ -38,14 +40,29 @@ namespace WebApp.Controllers
 			}
 			catch (Exception)
 			{
-				return RedirectToAction("Index"); // Перенаправление на другую страницу после успешного создания сообщения
+				return RedirectToAction("Index"); // Перенаправление на другую страницу после успешного создания 
 
-				throw;
 			}
-			// Обработка полученного сообщения
-			// Ваша логика сохранения сообщения или что-то еще
-			return RedirectToAction("Index"); // Перенаправление на другую страницу после успешного создания сообщения
+		}
 
+		[HttpPost]
+		public async Task<IActionResult> Delete(int id)
+		{
+			try
+			{
+				using (var httpClient = new HttpClient())
+				{
+					var res = await httpClient.DeleteAsync("http://localhost:64508/api/Message/" + id);
+					return RedirectToAction("Index");
+				}
+
+
+			}
+			catch (Exception)
+			{
+				return RedirectToAction("Index"); // Перенаправление на другую страницу после успешного создания 
+
+			}
 		}
 	}
 }
